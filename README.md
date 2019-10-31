@@ -2,7 +2,7 @@
 
 A Very simple tiny modal in vanilla js.
 
-[DEMO](https://liudonghua123.github.io/tiny-modal-js/)
+[DEMO](https://liudonghua123.github.io/tiny-modal.js/)
 
 ## Usage
 
