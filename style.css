@@ -85,3 +85,35 @@ p {
 	font-family: monospace;
 
 }
+
+.modal-content header {
+  font-size: 1.25em;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.modal-content strong {
+  margin: 0 5px;
+}
+
+.modal-content a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #6633CC;
+}
+
+.modal-content .highlight {
+  font-weight: 900;
+}
+
+.safecolor-1 {
+  color: #0099cc;
+}
+
+.safecolor-2 {
+  color: #33cccc;
+}
+
+.safecolor-3 {
+  color: #6699cc;
+}

@@ -1,7 +1,7 @@
 // https://clubmate.fi/jquerys-closest-function-and-pure-javascript-alternatives/
-const closest = function(el, fn) {
-  return el && (fn(el) ? el : closest(el.parentNode, fn));
-};
+// const closest = function(el, fn) {
+//   return el && (fn(el) ? el : closest(el.parentNode, fn));
+// };
 
 const Modal = (function() {
   const modalOpen = document.querySelector('[data-modal="open"]'),
